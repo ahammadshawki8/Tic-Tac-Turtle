@@ -12,7 +12,7 @@ This version doesn't supports SmartPhones. So, if you want to play the game usin
 
 # How to Use
 * Download [Python](https://www.python.org/downloads/) in your device.
-* Download the [Zip file](https://github.com/ahammadshawki8/Tick-Tac-Turtle.git).
+* Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tick-Tac-Turtle/zip/master).
 * Extract the zip file.
 * Open the ticktacturtle.py file with Python Shell.
 * Play the game and enjoy.
