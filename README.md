@@ -12,7 +12,7 @@ For Graphics and Turtle visulization you can try [version 2.0](https://github.co
 
 # How to Use
 * Download [Python](https://www.python.org/downloads/) in your device.
-* Download the [Zip file](Downloads\Compressed\Tick-Tac-Turtle-1.0.zip).
+* Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tick-Tac-Turtle/zip/V1.0).
 * Extract the zip file.
 * Open the ticktactoe.py file with Python Shell.
 * Play the game and enjoy.
