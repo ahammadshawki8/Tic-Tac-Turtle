@@ -13,7 +13,7 @@ A Tic-Tac-Toe game which is made by @ahammadshawki8 and @Arko07-quanta. For grap
 
 # How to Use
 * Download [Python](https://www.python.org/downloads/) in your device.
-* Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tick-Tac-Turtle/zip/master).
+* Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tick-Tac-Turtle/zip/V2.0).
 * Extract the zip file.
 * Open the tictacturtle.py file with Python Shell.
 * Play the game and enjoy.
