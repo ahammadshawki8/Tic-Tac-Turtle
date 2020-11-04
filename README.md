@@ -15,7 +15,8 @@ A Tic-Tac-Toe game which is made by @ahammadshawki8 and @Arko07-quanta. For grap
 * Download [Python](https://www.python.org/downloads/) in your device.
 * Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tic-Tac-Turtle/zip/master).
 * Extract the zip file.
-* Open the tictacturtle.py file with Python Shell.
+* Download pygame in your device by writing _pip download pygame_ in the command prompt. details can be found in [Pygame website](https://www.pygame.org).
+* Open the Tic-Tac-Turtle.py file with Python Shell.
 * Play the game and enjoy.
 
 # License
