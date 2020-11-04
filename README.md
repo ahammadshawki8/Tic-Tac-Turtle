@@ -1,4 +1,4 @@
-![tick](https://github.com/ahammadshawki8/Tic-Tac-Turtle/blob/master/tick.jpg)
+![tick](https://github.com/ahammadshawki8/Tic-Tac-Turtle/blob/master/tic.jpg)
 # Tic-Tac-Turtle
 A Tic-Tac-Toe game which is made by @ahammadshawki8 and @Arko07-quanta. You need to play this game in the Python shell. We have added Graphics and turtle visulization in Version 2.0. But unfortunately Version 2.0 doesn't supports SmartPhones. So, if you want to play this game using your mobile, you are in the right place. We hope to add interectivity in the upcoming versions.
 
@@ -15,7 +15,7 @@ A Tic-Tac-Toe game which is made by @ahammadshawki8 and @Arko07-quanta. You need
 * Download [Python](https://www.python.org/downloads/) in your device.
 * Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tic-Tac-Turtle/zip/V1.0).
 * Extract the zip file.
-* Open the ticktactoe.py file with Python Shell.
+* Open the tictactoe.py file with Python Shell.
 * Play the game and enjoy.
 
 # License
