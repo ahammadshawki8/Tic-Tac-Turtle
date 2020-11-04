@@ -1,18 +1,19 @@
 ![tick](https://github.com/ahammadshawki8/Tic-Tac-Turtle/blob/master/tic.jpg)
 # Tic-Tac-Turtle
-A Tic-Tac-Toe game which is made by @ahammadshawki8 and @Arko07-quanta. For graphics and visualization turtle library of Python have been used in this game. You need to play this game in the Python shell and your results will be being continuosly showed in turtle graphics window. We hope to add interectivity in the upcoming versions.
+A Tic-Tac-Toe game which is made by @ahammadshawki8 and @Arko07-quanta. For graphics and visualization pygame library of Python have been used in this game. You can play this game using a smooth GUI application and your results will be showed there. This is a multiplayer offline game which can be played in both mobile and pc.
 
-This version doesn't supports SmartPhones. So, if you want to play the game using your mobile, then play [version 1.0](https://github.com/ahammadshawki8/Tic-Tac-Turtle/tree/V1.0)
+* If you want to use shell based command system instead of turtle GUI based command system, then play [version 2.0](https://github.com/ahammadshawki8/Tic-Tac-Turtle/tree/V2.0)
+* But unfortunately, version 2.0 doesn't supports SmartPhones. So, if you want to play the game using your mobile, then play [version 1.0](https://github.com/ahammadshawki8/Tic-Tac-Turtle/tree/V1.0)
 
 # Features
-* Multiple levels
-* Shell based command system
-* Turtle graphics visulization
-* In-Shell visulization
+* Offline
+* Pygame GUI window based command system
+* Ingame Visulization with pygame
+* Multiplayer 
 
 # How to Use
 * Download [Python](https://www.python.org/downloads/) in your device.
-* Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tick-Tac-Turtle/zip/master).
+* Download the [Zip file](https://codeload.github.com/ahammadshawki8/Tic-Tac-Turtle/zip/master).
 * Extract the zip file.
 * Open the tictacturtle.py file with Python Shell.
 * Play the game and enjoy.
