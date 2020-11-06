@@ -15,8 +15,9 @@ board = [[None]*3, [None]*3, [None]*3]
 pg.init() 
 fps = 30
 CLOCK = pg.time.Clock() 
-screen = pg.display.set_mode((width, height + 100), 0, 32) 
+screen = pg.display.set_mode((width, height + 100), 0, 32)
 pg.display.set_caption("Tic Tac Turtle") 
+time.sleep(5)
 
 # loading the images as python object 
 initiating_window = pg.image.load("resources/modified_cover.png") 
